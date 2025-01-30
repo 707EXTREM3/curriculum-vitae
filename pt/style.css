@@ -105,11 +105,6 @@ a {
 .group-3 > div {
   flex: 1;
 }
-
-.divider {
-  border-top: 1px solid #727171;
-}
-
 @media only screen and (max-width: 768px) {
   .profile {
     margin-bottom: 0;
@@ -118,6 +113,13 @@ a {
     flex-direction: column;
   }
 }
+.divider {
+  border-top: 1px solid #727171;
+}
+.flagIcon {
+  font-family: "Segoe UI Emoji", "Apple Color Emoji", sans-serif;
+}
+
 /* profile */
 .profile_container {
   display: flex;
