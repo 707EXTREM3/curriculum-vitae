@@ -1,0 +1,22 @@
+{
+  "name": "curriculum-vitae",
+  "version": "1.0.0",
+  "description": "my cv webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/707EXTREM3/curriculum-vitae.git"
+  },
+  "author": "Alan D Caetano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/707EXTREM3/curriculum-vitae/issues"
+  },
+  "homepage": "https://github.com/707EXTREM3/curriculum-vitae#readme",
+  "devDependencies": {
+    "prettier": "3.4.2"
+  }
+}
